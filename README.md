@@ -1,6 +1,8 @@
 # API-Security-Manual
 
+**API** **Security** refers to the set of practices, techniques, and technologies that ensure the security and protection of APIs (Application Programming Interfaces). APIs are used to connect software applications, and they allow different systems and platforms to communicate with each other. As APIs provide access to data and functionality, they also pose significant security risks, such as unauthorized access, data breaches, and cyber-attacks.
 
+**Here we would explain about API Security in every aspect:**
 
 
 ## Amazon API Gateway Security
