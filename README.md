@@ -14,3 +14,7 @@
 ## Google Cloud API Security Using Apigee
 
 ![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Google%20Cloud%20API%20Using%20Apigee.png)
+
+## Google Cloud API Security Using Comprehensive Web App and API Protection (WAAP)
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Google%20Cloud%20API%20Implement%20Comprehensive%20Web%20App%20and%20API%20Protection%20(WAAP).png)
