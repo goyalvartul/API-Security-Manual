@@ -23,3 +23,7 @@
 
 ![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Google%20Cloud%20API%20Using%20Cloud%20CDN%20for%20caching.png)
 
+## Google Cloud API Security Using Google Cloud Armor as a WAF Layer with Apigee
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Google%20Cloud%20API%20Using%20Google%20Cloud%20Armor%20as%20a%20WAF%20layer%20along%20with%20Apigee.png)
+
