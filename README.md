@@ -4,6 +4,24 @@
 
 **Here we would explain about API Security in every aspect:**
 
+# Implementation of Security Header in Code
+
+# HTTP Strict Transport Security (HSTS) Code Setup
+
+**Setting the HSTS Header:**
+To implement HSTS, a website needs to set the HSTS header. The header is sent with every response to the client, informing it to use HTTPS for all future requests to the site. The following is the HSTS header that needs to be set:
+
+Strict-Transport-Security: max-age=<expire-time>; includeSubDomains
+
+The "max-age" parameter specifies the number of seconds that the browser should remember to use HTTPS. The "includeSubDomains" parameter tells the browser to enforce HSTS for all subdomains of the website.
+
+**Implementing HSTS in the Web Server:**
+To implement HSTS in the web server, the server configuration needs to be updated to include the HSTS header. The following is an example of how to implement HSTS in Apache:
+
+Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+
+This code sets the HSTS header for a duration of one year (31536000 seconds) and includes all subdomains of the site.
+
 
 ## Amazon API Gateway Security
 
