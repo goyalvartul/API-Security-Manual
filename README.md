@@ -18,3 +18,8 @@
 ## Google Cloud API Security Using Comprehensive Web App and API Protection (WAAP)
 
 ![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Google%20Cloud%20API%20Implement%20Comprehensive%20Web%20App%20and%20API%20Protection%20(WAAP).png)
+
+## Google Cloud API Security Using Cloud CDN for Caching
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/Security%20Overview%20of%20Google%20Cloud%20API%20Using%20Cloud%20CDN%20for%20caching.png)
+
