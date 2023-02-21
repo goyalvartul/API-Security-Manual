@@ -21,6 +21,13 @@ To implement HSTS in the web server, the server configuration needs to be update
 Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
 
 This code sets the HSTS header for a duration of one year (31536000 seconds) and includes all subdomains of the site.
+  
+
+## Web3 API Security Hacks
+
+[NFT Projects Lost $22M to Largely the Same Hackers on Discord](https://decrypt.co/106024/nft-projects-lost-22m-to-hackers-in-one-month-via-discord-report)
+
+[Premint to Return $500K in Ethereum to NFT Hack Victims](https://decrypt.co/105585/premint-return-500k-ethereum-nft-hack-victims)
 
 
 ## Amazon API Gateway Security
