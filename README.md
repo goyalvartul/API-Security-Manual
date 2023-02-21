@@ -23,6 +23,21 @@ Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains
 This code sets the HSTS header for a duration of one year (31536000 seconds) and includes all subdomains of the site.
   
 
+# X-XSS-Protection Code Setup
+
+**Setting the X-XSS-Protection Header:**
+  
+X-XSS-Protection security header is used to enable or disable the Cross-Site Scripting (XSS) filter built into modern web browsers. The header can be set to three different values:
+
+1. 0 - Disables the XSS filter
+2. 1 - Enables the XSS filter and sanitizes the page if an attack is detected
+3. 1; mode=block - Enables the XSS filter and blocks the page from rendering if an attack is detected
+  
+To implement the X-XSS-Protection header in an API, you will need to set the header value in the response object of your API endpoint. Here's an example implementation in Node.js:
+  
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/X-XSS-Protection-Header.png)
+  
+
 ## Web3 API Security Hacks
 
 [NFT Projects Lost $22M to Largely the Same Hackers on Discord](https://decrypt.co/106024/nft-projects-lost-22m-to-hackers-in-one-month-via-discord-report)
