@@ -50,3 +50,7 @@ This code sets the HSTS header for a duration of one year (31536000 seconds) and
 ## Kubernetes API Security - Source iximiuz
 
 ![App Screenshot](https://github.com/goyalvartul/code/blob/main/Kubernetes-API-Security.png)
+  
+## NFT API Security
+
+![App Screenshot](https://github.com/goyalvartul/code/blob/main/NFT-API-Security.png)
